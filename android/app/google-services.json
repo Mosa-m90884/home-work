@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621179872034",
+    "project_id": "svu-wmb",
+    "storage_bucket": "svu-wmb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621179872034:android:5151689f26d1cda7d3bb7b",
+        "android_client_info": {
+          "package_name": "com.example.home_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQjv6LvZ7BBjb2zEY7Po0kqkea-WTwT8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
